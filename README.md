@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5945A1&background=FFF8F300&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHup+page+%F0%9F%96%A4%F0%9F%92%99" alt="Typing SVG" /></a>
 <p align="left">Hii  I'm Salma 🌹</p>
 
 ###

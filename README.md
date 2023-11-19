@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5945A1&background=FFF8F300&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHup+page+%F0%9F%96%A4%F0%9F%92%99" alt="Typing SVG" /></a>
 <p align="left">A new student in software development who finds interest and love in the programming world💻♥♥</p>
-<br> <p align="center" height=50px color= pink  >this is my GitHub </p>
+<br> <p align="center" height=80px  >this is my GitHub </p>
 
 ###
 
@@ -24,6 +24,7 @@
 
 ###
 <div align="center">
-   <img src="https://1drv.ms/i/s!Al-cum9p4RUegwY_81cuKj80qWi7?e=GaRycS" />
+   <img src="[https://1drv.ms/i/s!Al-cum9p4RUegwY_81cuKj80qWi7?e=GaRycS](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" />
+  i
 </div>   
    

@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5945A1&background=FFF8F300&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHup+page+%F0%9F%96%A4%F0%9F%92%99" alt="Typing SVG" /></a>
-<p align="left">A new student in software development who finds interest and love in the programming world💻♥♥</p>
+<p align="left">A student in software development who finds interest and love in the programming world💻♥♥</p>
 <br> <p align="center" height="80px" color:"pink"  >this is my GitHub </p>
 
 ###

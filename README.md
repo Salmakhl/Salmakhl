@@ -53,7 +53,7 @@
 <br clear="both">
 <div align="center">
 <img align="center" height="150" src="https://yt3.ggpht.com/djOFfRQsj45xwzEGcq4o39qPYe3AhYn9cVl8rwySnUQytZuT18OkQ2xf3PkuSvhQMpmVDOWlGeTjoRA=s853-nd-v1"  />
-<img align="center" src="https://i.gifer.com/origin/dd/dda0c84f899569ac0b322bdf879abd1a_w200.gif" alt="Snake animation" />
+<img align="center" height="150" src="https://i.gifer.com/origin/dd/dda0c84f899569ac0b322bdf879abd1a_w200.gif" alt="Snake animation" />
 </div>
 
 

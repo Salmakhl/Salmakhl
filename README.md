@@ -55,7 +55,7 @@
 
 <br clear="both">
 
-<img src="https://fr.pinterest.com/pin/11610911541166503/" alt="Snake animation" />
+<img src="https://camo.githubusercontent.com/7ad6807a0f9217c2207e54cb17275d4ec3667fc03abb397a38a47bce2bd88ec6/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966" alt="Snake animation" />
 
 
 

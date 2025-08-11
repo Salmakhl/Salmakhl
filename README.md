@@ -14,9 +14,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://yt3.ggpht.com/djOFfRQsj45xwzEGcq4o39qPYe3AhYn9cVl8rwySnUQytZuT18OkQ2xf3PkuSvhQMpmVDOWlGeTjoRA=s853-nd-v1"  />
-
 ###
 
 <div align="left">
@@ -47,7 +44,6 @@
   <a href="mailto:kkech0179@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
- <br clear="both">   
   <a href=''>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
@@ -55,7 +51,7 @@
 ###
 
 <br clear="both">
-
+<img align="right" height="150" src="https://yt3.ggpht.com/djOFfRQsj45xwzEGcq4o39qPYe3AhYn9cVl8rwySnUQytZuT18OkQ2xf3PkuSvhQMpmVDOWlGeTjoRA=s853-nd-v1"  />
 <img src="https://camo.githubusercontent.com/7ad6807a0f9217c2207e54cb17275d4ec3667fc03abb397a38a47bce2bd88ec6/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966" alt="Snake animation" />
 
 

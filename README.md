@@ -16,7 +16,7 @@
 ###
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -51,10 +51,10 @@
 ###
 
 <br clear="both">
+<div align="center">
 <img align="center" height="150" src="https://yt3.ggpht.com/djOFfRQsj45xwzEGcq4o39qPYe3AhYn9cVl8rwySnUQytZuT18OkQ2xf3PkuSvhQMpmVDOWlGeTjoRA=s853-nd-v1"  />
-<br clear="both">
-<img align="center" src="https://camo.githubusercontent.com/7ad6807a0f9217c2207e54cb17275d4ec3667fc03abb397a38a47bce2bd88ec6/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966" alt="Snake animation" />
-
+<img align="center" src="https://i.gifer.com/origin/dd/dda0c84f899569ac0b322bdf879abd1a_w200.gif" alt="Snake animation" />
+</div>
 
 
 

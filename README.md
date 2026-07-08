@@ -1,66 +1,151 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5945A1&background=FFF8F300&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHup+page+%F0%9F%96%A4%F0%9F%92%99" alt="Typing SVG" /></a>
-<p align="left">A student in software development who finds interest and love in the programming world💻♥♥</p>
-<br> <p align="center" height="80px" color:"pink"  >this is my GitHub </p>
-
-###
-
-
-
-###
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff003c,6f00ff&height=200&section=header&text=SALMA&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+# 🔥 Hi, I'm Salma 👋
+
+### 💻 Software Developer | 🧠 Lifelong Learner | 🚀 Building the Future
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=FF2E63&center=true&vCenter=true&width=700&lines=Welcome+to+my+Cyber+Space...;Software+Developer;Python+%7C+Web+Development;Always+Learning+New+Technologies;Turning+Coffee+into+Code+☕" />
+
+![](https://img.shields.io/badge/Python-Expert-red?style=for-the-badge&logo=python)
+
+![](https://img.shields.io/badge/Open%20Source-Lover-red?style=for-the-badge)
+
+![](https://img.shields.io/badge/Always-Learning-ff004c?style=for-the-badge)
+
+![](https://img.shields.io/badge/Coffee-Powered-black?style=for-the-badge&logo=buymeacoffee)
 </div>
 
-###
-###
+---
+
+# ⚡ About Me
+
+```text
+> STATUS       : ONLINE
+> LOCATION     : Morocco 🇲🇦
+> ROLE         : Software Development Student
+> CURRENT MODE : Learning • Building • Growing
+> MISSION      : Create useful applications and beautiful interfaces.
+```
+
+🔥 I love transforming ideas into real applications.
+
+⚡ Currently learning:
+- Python
+- Web Development
+- Databases
+- Software Engineering
+- UI/UX Design
+
+💡 Interests
+
+- 🤖 Artificial Intelligence
+- 🌐 Web Development
+- 🎮 Creative Coding
+- 🖥 Desktop Applications
+- 📚 Educational Technology
+
+---
+
+# 🚀 Tech Arsenal
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
 
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,php,react,mysql,mongodb,git,github,vscode,figma,linux&theme=dark"/>
 
 </div>
 
-###
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://www.instagram.com/sk._421?igsh=cnEzNWoyNWpnMnJw"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="https://discord.gg/2bcbgXtN"<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="mailto:kkech0179@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# ⚡ Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌌 Current Goals
+
+```yaml
+2026:
+  ✔ Improve Python
+  ✔ Learn Advanced Web Development
+  ✔ Build Real Projects
+  ✔ Open Source Contributions
+  ✔ Grow My GitHub
+```
+
+---
+
+# 🔥 Favorite Quote
+
+> *"The best way to predict the future is to build it."*
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
-  <a href=''>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-FF2E63?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-FF512F?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
-###
+---
 
-<br clear="both">
 <div align="center">
-<img align="center" height="150" src="https://yt3.ggpht.com/djOFfRQsj45xwzEGcq4o39qPYe3AhYn9cVl8rwySnUQytZuT18OkQ2xf3PkuSvhQMpmVDOWlGeTjoRA=s853-nd-v1"  />
-<img align="center" height="150" src="https://i.gifer.com/origin/dd/dda0c84f899569ac0b322bdf879abd1a_w200.gif" alt="Snake animation" />
+
+### 🔥 Visitors
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=red)
+
 </div>
 
+---
 
+<div align="center">
 
-###
+## ⚡ "Code. Learn. Build. Repeat."
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
+</div>
 
 
 

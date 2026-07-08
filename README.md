@@ -62,9 +62,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Salmakhl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmakhl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180" src="https://ghstats.dev/api/card?username=Salmakhl&theme=tokyonight"/>
 
 </div>
 
@@ -75,7 +73,6 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Salmakhl&theme=tokyonight"/>
-
 </div>
 
 ---

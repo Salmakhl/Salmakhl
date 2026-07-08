@@ -64,7 +64,7 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Salmakhl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmakh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmakhl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Salmakh&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Salmakhl&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Salmakh&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Salmakhl&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -133,7 +133,7 @@
 
 ### 🔥 Visitors
 
-![](https://komarev.com/ghpvc/?username=Salmakh&style=for-the-badge&color=red)
+![](https://komarev.com/ghpvc/?username=Salmakhl&style=for-the-badge&color=red)
 
 </div>
 
